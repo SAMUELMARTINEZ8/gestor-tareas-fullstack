@@ -21,4 +21,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-# Script principal de gestión de Django
+# Script principal de gestión de Django. 
