@@ -26,8 +26,6 @@ Un sistema **Full Stack** robusto para la gestión de tareas. Combina la potenci
 
 Sigue estos pasos para ejecutar el proyecto completo en tu entorno local.
 
-## 🛠️ Instalación y Configuración
-
 1.  **Clonar el repositorio:**
     ```bash
     git clone https://github.com/SAMUELMARTINEZ8/gestor-tareas-fullstack.git
