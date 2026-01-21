@@ -84,4 +84,4 @@ Este repositorio está organizado en dos partes principales (Backend y Frontend)
 * **`requirements.txt`** 📦
     * Lista de todas las librerías de Python necesarias para que el proyecto funcione.
 ---
-*Desarrollado por Samuel Martinez* 🐵
+*Desarrollado por Samuel Martinez* 🐵 
